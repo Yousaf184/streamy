@@ -1,0 +1,36 @@
+.input-field-container {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    width: 45%;
+}
+
+label {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.input-field {
+    padding: 12px;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid #000;
+    background-color: rgba(0, 0, 0, 0.07);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.input-field:focus {
+    background-color: #fff;
+}
+
+small {
+    display: block;
+    margin: 10px 0 0 0;
+    color: red;
+}
+
+small i {
+    margin: 0 6px 0 0;
+}

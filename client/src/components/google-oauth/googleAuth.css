@@ -1,0 +1,20 @@
+.auth-btn {
+    background-color: royalblue;
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+    outline: none;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 0 0 30px;
+    font-family: inherit;
+}
+
+.auth-btn:hover {
+    background-color: blue;
+}
+
+.auth-btn i {
+    margin: 0 15px 0 0;
+}

@@ -1,0 +1,13 @@
+.stream-show-component {
+    padding: 25px 40px;
+}
+
+.stream-show-info-container h1 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    padding: 15px 0 10px;
+    margin: 0;
+}
+
+.stream-show-info-container p {
+    margin: 15px 0 0 0;
+}
